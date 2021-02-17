@@ -2,9 +2,7 @@
   "base_url": "https://blog.infinitecareer.in",
   "site_title": "Infinite Career Blog",
   "site_description": "We would like to help people in need, to connect with their next job, and boost their career to the next level.",
-  "site_keywords": [
-    "Sarkari"
-  ],
+  "site_keywords": [],
   "posts_per_page": 5,
   "twitter_account": "infcareerin",
   "github_account": "deepakpadukone20"
